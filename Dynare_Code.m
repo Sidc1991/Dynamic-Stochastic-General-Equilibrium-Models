@@ -1,4 +1,4 @@
-//Reproducing figure 3-5, Galì(2002)
+//Reproducing figure 3-5, GalÃ¬(2002)
 
 //define 14 endogenous variables and 1 exogenous variables
 var y, a, x, yn, pi, p, i, r, rn, n, m, ry, iy, piy ;
